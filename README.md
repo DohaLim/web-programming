@@ -3,7 +3,7 @@ web programming class practice
 
 # pr1 - 자기소개서
 1. 브라우저에서 한 번 이상 화면이 스크롤 되는 분량
-2. <h2>와 <p>를 사용하여 제목과 본문 구분
+2. h2와 p를 사용하여 제목과 본문 구분
 3. 페이지 상단에 각 단원을 연결하는 목차 작성
 4. 본인 이미지 사용
 5. 1개 이상의 외부 링크 사용
@@ -15,6 +15,7 @@ web programming class practice
 
 # pr2 - 식당 예약
 <img src="restaurant.png" height="400px" width="300px">
+
 1. 그림과 같은 구성의 식당 예약 폼을 만드시오
 2. 그림과 같은 초기값을 적용한다
 3. 가능한 모든 캡션에 label을 적용한다
